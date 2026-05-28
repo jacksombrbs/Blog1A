@@ -1,0 +1,15 @@
+body {
+max-width: 800px;]
+margin: 0 auto;
+}
+
+header{
+background-color: rgb(113, 9, 9);
+color: #fff;
+text-align: center;
+}
+
+main {
+background-color: black;
+color: #fff;
+}
